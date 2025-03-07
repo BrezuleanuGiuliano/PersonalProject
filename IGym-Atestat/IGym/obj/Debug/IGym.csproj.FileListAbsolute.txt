@@ -1,0 +1,47 @@
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\IGym.csproj.AssemblyReference.cache
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\Gestiune_sala_crossfit.frmAdmin.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\Gestiune_sala_crossfit.frmClient.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\Gestiune_sala_crossfit.frmConectare.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\Gestiune_sala_crossfit.frmCont.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\Gestiune_sala_crossfit.frmMain.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\IGym.csproj.GenerateResource.cache
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\IGym.csproj.CoreCompileInputs.cache
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\IGym.csproj.CopyComplete
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\IGym.Properties.Resources.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\bin\Debug\IGym.exe.config
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\bin\Debug\IGym.exe
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\bin\Debug\IGym.pdb
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\IGym.exe
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\Gestiune sala crossfit\obj\Debug\IGym.pdb
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\bin\Debug\IGym.exe.config
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\bin\Debug\IGym.exe
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\bin\Debug\IGym.pdb
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\bin\Debug\MySql.Data.dll
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.csproj.AssemblyReference.cache
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\Gestiune_sala_crossfit.frmAdmin.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\Gestiune_sala_crossfit.frmClient.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\Gestiune_sala_crossfit.frmConectare.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\Gestiune_sala_crossfit.frmCont.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\Gestiune_sala_crossfit.frmMain.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.Properties.Resources.resources
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.csproj.GenerateResource.cache
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.csproj.CoreCompileInputs.cache
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.csproj.CopyComplete
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.exe
+C:\Users\giuli\OneDrive\Desktop\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.pdb
+D:\IGym-Atestat\IGym-Atestat\IGym\bin\Debug\IGym.exe.config
+D:\IGym-Atestat\IGym-Atestat\IGym\bin\Debug\IGym.exe
+D:\IGym-Atestat\IGym-Atestat\IGym\bin\Debug\IGym.pdb
+D:\IGym-Atestat\IGym-Atestat\IGym\bin\Debug\MySql.Data.dll
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.csproj.AssemblyReference.cache
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\Gestiune_sala_crossfit.frmAdmin.resources
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\Gestiune_sala_crossfit.frmClient.resources
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\Gestiune_sala_crossfit.frmConectare.resources
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\Gestiune_sala_crossfit.frmCont.resources
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\Gestiune_sala_crossfit.frmMain.resources
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.Properties.Resources.resources
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.csproj.GenerateResource.cache
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.csproj.CoreCompileInputs.cache
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.csproj.Up2Date
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.exe
+D:\IGym-Atestat\IGym-Atestat\IGym\obj\Debug\IGym.pdb

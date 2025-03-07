@@ -1,0 +1,292 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IGym-Atestat\\IGym-Atestat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\frmmain.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\frmmain.resx||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\frmmain.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\frmcont.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\frmcont.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\frmcont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\frmcont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\frmconectare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\frmconectare.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\frmconectare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\frmconectare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\frmclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\frmclient.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\frmadmin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\frmadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\eveniment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\eveniment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\antrenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\antrenor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\abonament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\abonament.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|d:\\igym-atestat\\igym-atestat\\igym\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C5C6BFC-9887-4B37-85F5-D2B3A298CA17}|IGym\\IGym.csproj|solutionrelative:igym\\frmclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\Program.cs",
+              "RelativeDocumentMoniker": "IGym\\Program.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\Program.cs",
+              "RelativeToolTip": "IGym\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:27:21.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmMain.resx",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmMain.resx",
+              "RelativeDocumentMoniker": "IGym\\frmMain.resx",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmMain.resx",
+              "RelativeToolTip": "IGym\\frmMain.resx",
+              "ViewState": "AgIAADckAAAAAAAAAAAkwEYkAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-07T18:27:12.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmMain.Designer.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmMain.Designer.cs",
+              "RelativeDocumentMoniker": "IGym\\frmMain.Designer.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmMain.Designer.cs",
+              "RelativeToolTip": "IGym\\frmMain.Designer.cs",
+              "ViewState": "AgIAAD0BAAAAAAAAAAAEwEsBAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:27:09.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmMain.cs",
+              "RelativeDocumentMoniker": "IGym\\frmMain.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmMain.cs*",
+              "RelativeToolTip": "IGym\\frmMain.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:26:47.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmCont.Designer.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmCont.Designer.cs",
+              "RelativeDocumentMoniker": "IGym\\frmCont.Designer.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmCont.Designer.cs",
+              "RelativeToolTip": "IGym\\frmCont.Designer.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:26:44.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmCont.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmCont.cs",
+              "RelativeDocumentMoniker": "IGym\\frmCont.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmCont.cs*",
+              "RelativeToolTip": "IGym\\frmCont.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:26:14.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmConectare.Designer.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmConectare.Designer.cs",
+              "RelativeDocumentMoniker": "IGym\\frmConectare.Designer.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmConectare.Designer.cs",
+              "RelativeToolTip": "IGym\\frmConectare.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:26:13.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmConectare.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmConectare.cs",
+              "RelativeDocumentMoniker": "IGym\\frmConectare.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmConectare.cs*",
+              "RelativeToolTip": "IGym\\frmConectare.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:25:42.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmClient.Designer.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmClient.Designer.cs",
+              "RelativeDocumentMoniker": "IGym\\frmClient.Designer.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmClient.Designer.cs",
+              "RelativeToolTip": "IGym\\frmClient.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:25:41.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmAdmin.Designer.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmAdmin.Designer.cs",
+              "RelativeDocumentMoniker": "IGym\\frmAdmin.Designer.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmAdmin.Designer.cs",
+              "RelativeToolTip": "IGym\\frmAdmin.Designer.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:25:38.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmAdmin.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmAdmin.cs",
+              "RelativeDocumentMoniker": "IGym\\frmAdmin.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmAdmin.cs*",
+              "RelativeToolTip": "IGym\\frmAdmin.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:25:15.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "eveniment.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\eveniment.cs",
+              "RelativeDocumentMoniker": "IGym\\eveniment.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\eveniment.cs",
+              "RelativeToolTip": "IGym\\eveniment.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:25:14.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "client.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\client.cs",
+              "RelativeDocumentMoniker": "IGym\\client.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\client.cs",
+              "RelativeToolTip": "IGym\\client.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:25:13.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "antrenor.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\antrenor.cs",
+              "RelativeDocumentMoniker": "IGym\\antrenor.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\antrenor.cs",
+              "RelativeToolTip": "IGym\\antrenor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:25:13.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "abonament.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\abonament.cs",
+              "RelativeDocumentMoniker": "IGym\\abonament.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\abonament.cs",
+              "RelativeToolTip": "IGym\\abonament.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:25:12.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "frmClient.cs",
+              "DocumentMoniker": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmClient.cs",
+              "RelativeDocumentMoniker": "IGym\\frmClient.cs",
+              "ToolTip": "D:\\IGym-Atestat\\IGym-Atestat\\IGym\\frmClient.cs*",
+              "RelativeToolTip": "IGym\\frmClient.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-07T18:20:33.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
